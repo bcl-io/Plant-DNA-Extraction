@@ -21,3 +21,10 @@ H2O | 2.48 mL | 24.8%
 
 Prepare CTAB extraction buffer immediately before use; buffer is only good when freshly prepared. Store 10% CTAB stock solution at 37°C to avoid precipitation. It may be stored at 37°C for several years.
 
+
+## Spin Column Extraction
+
+### Cica Geneus DNA Prep Kit (for Plant) 
+[Website](http://www.kanto.co.jp/en/products/siyaku/genetic_engineering/nucleic_acid_extractionpurification_reagents/cicageneustm_purification_kit_series.html)
+[Methods PDF](http://www.kanto.co.jp/en/products/siyaku/pdf/s_prep_brochure_en.pdf)
+_Kit available at Lab_
