@@ -5,7 +5,7 @@ Overview of Plant DNA Extraction Methods
 
 ## CTAB extraction buffer
 
-###[Cold Spring Harbor Protocols](http://cshprotocols.cshlp.org/content/2009/10/pdb.rec11984.full)
+### [Cold Spring Harbor Protocols](http://cshprotocols.cshlp.org/content/2009/10/pdb.rec11984.full)
 
 * Reagent	Amount to add (for 10 mL)	Final concentration
 * Cetyltrimethyl ammonium bromide (CTAB) (10% in H2O)a	3 mL	3%
