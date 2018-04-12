@@ -33,15 +33,16 @@ _Kit available at Lab_
 [A simple and rapid method for the preparation of plant genomic DNA for PCR analysis, Edwards et al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC333874/)
 [Modified Edwards DNA Extraction Protocol](https://www.floridamuseum.ufl.edu/museum-voices/soltis-lab/files/2014/02/Edwards1991.pdf)
 
-Tris-HCl pH 7.5, 
-NaCl
-EDTA
-0.5% SDS
-TE
+- Tris-HCl pH 7.5, (Tris hydrochloride)
+- NaCl
+- EDTA (Ethylenediaminetetraacetic acid)
+- 0.5% SDS (Sodium dodecyl sulfate)
+- TE Buffer
 
 ## Flower Preservation
 [A Protocol for Preparing Preserved Flowers with Natural Color and Texture, Ito et al](http://horttech.ashspublications.org/content/20/2/445.full)
 
-Ethyl Alcohol
-Glycerin
-Polypropylene Glycol (diol type, avg mol weight 400)
+- Ethyl Alcohol
+- Glycerin
+- Ethylene glycol
+- Polypropylene Glycol (PPG) (diol type, avg mol weight 400)
